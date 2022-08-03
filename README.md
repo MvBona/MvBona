@@ -1,7 +1,7 @@
 <h1 align="center">🖖👽Olá!!  Sou Marcos Bonaccorsi</h1>
 <h3 align="center">👨‍💻 Um desenvolvedor em desenvolvimento</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MvBona&label=Profile%20views&color=0e75b6&style=flat" alt="MvBona" /> </p>
+
 
 - 🌱 Atualmente estudando na **Trybe**
 
